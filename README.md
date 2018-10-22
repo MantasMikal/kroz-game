@@ -1,6 +1,7 @@
 # Kroz
 Welcome to the readme file for Kroz
 Kroz is a text based retro game that takes inspiration from the popular game [Zork](https://en.wikipedia.org/wiki/Zork)
+
 The game was developed as part of University curriculum.
 ## Authors
 * Dom
@@ -18,8 +19,6 @@ Please follow the steps to clone the repo, if you need help with git basics just
 #### Linux
 ``` bash
 sudo apt install sqlite3 libsqlite3-dev openssl libssl-dev
-sudo apt install openssl
-sudo apt install libssl-dev
 ```
 #### MacOS
 You need to install [brew](https://brew.sh/).
@@ -39,10 +38,6 @@ g++ --std=c++14 *.cpp -o output -lsqlite3 -lcrypto
 ```
 ./output
 ```
-
-## Comunication
-Here is a link to get into our discord
-[Discord](https://discord.gg/WeQcRcm)
 
 ## Class view
 ![](https://i.imgur.com/UlwVSVe.png)
