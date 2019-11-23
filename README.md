@@ -39,9 +39,6 @@ g++ --std=c++14 *.cpp -o output -lsqlite3 -lcrypto
 ./output
 ```
 
-## Class view
-![](https://i.imgur.com/UlwVSVe.png)
-
 ## ERD
 ![](https://i.imgur.com/GZyQEQ0.png)
 
